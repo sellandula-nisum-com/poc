@@ -1,0 +1,19 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "It is a POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "git add ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sellandula-nisum-com/poc.git"
+  },
+  "author": "Srinivas Ellandula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sellandula-nisum-com/poc/issues"
+  },
+  "homepage": "https://github.com/sellandula-nisum-com/poc#readme"
+}
